@@ -1,1 +1,5 @@
 pip install python-telegram-bot
+
+pip install pandas-datareader
+
+python main.py
